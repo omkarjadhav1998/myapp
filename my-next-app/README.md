@@ -7,12 +7,17 @@ I have created a back-end server by using nodejs and mongodb for performing CRUD
 
 For starting dev server need to install package related dependecies:
 For front-end:
+
 ********\myapp\my-next-app> npm install
+
 
 ********\myapp\my-next-app> npm run dev
 
 For starting back-end server:
+
 ********\myapp\server> npm install
+
+
 ********\myapp\server> node index.js
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
