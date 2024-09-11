@@ -1,0 +1,18 @@
+.input {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px;
+}
+.inputmain {
+  padding: 10px;
+  font-size: 16px;
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+}
+
+.message {
+  background-color: pink;
+}
